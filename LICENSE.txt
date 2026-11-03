@@ -1,0 +1,209 @@
+vDeck - LICENCJA UŻYTKOWNIKA KOŃCOWEGO
+======================================
+
+Copyright (c) 2026 Pplociennik (https://github.com/Pplociennik). Wszelkie prawa zastrzeżone.
+
+vDeck nie jest oprogramowaniem open source. Kod źródłowy nie jest udostępniany. Poniższa licencja
+pozwala bezpłatnie używać programu na opisanych warunkach. English version below; in case of any
+discrepancy the Polish version prevails.
+
+
+§ 1. Definicje
+
+1. Licencjodawca - autor występujący pod pseudonimem Pplociennik (https://github.com/Pplociennik),
+   wyłączny właściciel autorskich praw majątkowych do Programu.
+2. Program - oprogramowanie vDeck w postaci paczki dystrybucyjnej, w szczególności pliki programu
+   w katalogu lib, plik start-vDeck.bat, instrukcja obsługi, pliki README i szablony ustawień,
+   a także każda jego aktualizacja, chyba że została wydana z inną licencją.
+3. Komponenty osób trzecich - oprogramowanie innych podmiotów dołączone do Programu, w tym środowisko
+   Java w katalogu jre i biblioteki wymienione w pliku THIRD-PARTY-NOTICES.txt.
+4. Oficjalne źródło - wydania Programu publikowane przez Licencjodawcę pod adresem
+   https://github.com/Pplociennik/vDeck-releases.
+5. Użytkownik - osoba fizyczna, osoba prawna albo jednostka organizacyjna, która instaluje lub
+   używa Programu.
+
+
+§ 2. Udzielenie licencji
+
+1. Licencjodawca udziela Użytkownikowi nieodpłatnej, niewyłącznej, nieprzenoszalnej licencji na
+   korzystanie z Programu, bez prawa udzielania dalszych licencji, bez ograniczeń terytorialnych,
+   na czas nieoznaczony.
+2. Licencja obejmuje następujące pola eksploatacji:
+   a) instalowanie Programu na dowolnej liczbie urządzeń Użytkownika;
+   b) trwałe i czasowe zwielokrotnianie Programu w pamięci urządzenia w zakresie potrzebnym do jego
+      instalacji, uruchomienia, wyświetlania, stosowania, przechowywania i aktualizacji;
+   c) sporządzenie kopii zapasowej, jeżeli jest niezbędna do korzystania z Programu.
+3. Licencja obejmuje wyłącznie użytek niekomercyjny, w szczególności zarządzanie serwerami Valheim
+   prowadzonymi bez wynagrodzenia dla Użytkownika, jego znajomych lub społeczności. Bez uprzedniej
+   zgody Licencjodawcy wyrażonej na piśmie lub w formie dokumentowej nie wolno używać Programu
+   w działalności zarobkowej ani w celu uzyskania korzyści majątkowej, w tym do świadczenia
+   odpłatnych usług hostingu lub administrowania serwerami.
+4. Licencja wchodzi w życie z chwilą pierwszej instalacji albo pierwszego uruchomienia Programu.
+   Użytkownik, który nie akceptuje licencji, nie może instalować ani używać Programu.
+
+
+§ 3. Ograniczenia
+
+1. Bez uprzedniej zgody Licencjodawcy wyrażonej na piśmie lub w formie dokumentowej Użytkownik nie
+   może:
+   a) rozpowszechniać Programu ani jego części, w szczególności publikować, udostępniać do pobrania,
+      sprzedawać, wynajmować, użyczać ani dołączać go do innych produktów; wolno natomiast wskazywać
+      innym osobom Oficjalne źródło;
+   b) tłumaczyć, przystosowywać, zmieniać układu ani wprowadzać innych zmian w Programie, w tym
+      dekompilować go i deasemblować, poza zakresem, na który bezwzględnie pozwalają przepisy prawa,
+      w szczególności art. 75 ust. 2 i 3 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach
+      pokrewnych;
+   c) usuwać ani zmieniać oznaczeń autorstwa, informacji o prawach autorskich i licencjach, w tym
+      plików LICENSE.txt i THIRD-PARTY-NOTICES.txt oraz katalogu jre\legal;
+   d) używać nazwy vDeck do oznaczania innego oprogramowania ani sugerować, że Licencjodawca je
+      wspiera.
+2. Użytkownik nie może używać Programu w sposób sprzeczny z prawem albo z warunkami korzystania
+   z gry Valheim i usług, z którymi Program współpracuje.
+
+
+§ 4. Komponenty osób trzecich
+
+1. Komponenty osób trzecich podlegają wyłącznie własnym licencjom, wymienionym w pliku
+   THIRD-PARTY-NOTICES.txt oraz w katalogu jre\legal.
+2. Niniejsza licencja nie ogranicza praw, które Użytkownik ma na podstawie tych licencji.
+
+
+§ 5. Aktualizacje i połączenia sieciowe
+
+1. Program może przy uruchomieniu sprawdzać, pobierać i instalować nowsze wersje z Oficjalnego
+   źródła. Użytkownik może to wyłączyć ustawieniem update.enabled=false w pliku
+   .vDeck\config\vDeck-start.properties.
+2. W tym celu Program łączy się z serwisem GitHub, który przetwarza dane połączenia według własnych
+   zasad. Program nie przesyła Licencjodawcy żadnych danych Użytkownika.
+3. Licencjodawca nie ma obowiązku wydawania aktualizacji, udzielania wsparcia ani utrzymywania
+   Oficjalnego źródła i może w każdej chwili zakończyć rozwój Programu.
+
+
+§ 6. Wyłączenie gwarancji
+
+1. Program jest udostępniany nieodpłatnie, w stanie, w jakim się znajduje („tak jak jest"), bez
+   jakichkolwiek gwarancji, wyraźnych ani dorozumianych, w szczególności gwarancji przydatności
+   do określonego celu, braku błędów, nieprzerwanego działania i zgodności z kolejnymi wersjami gry
+   Valheim. W najszerszym zakresie dozwolonym przez prawo wyłącza się rękojmię.
+2. Program jest we wczesnej fazie rozwoju. Zatrzymuje, wymusza zakończenie i uruchamia proces
+   serwera gry, a kopia działającego świata nie gwarantuje spójnego zapisu gry.
+3. Użytkownik używa Programu na własne ryzyko i sam odpowiada za regularne kopie zapasowe swoich
+   światów, ustawień i innych danych.
+
+
+§ 7. Ograniczenie odpowiedzialności
+
+1. W najszerszym zakresie dozwolonym przez prawo Licencjodawca nie odpowiada za żadne szkody
+   wynikłe z używania Programu albo niemożności jego używania, w szczególności za utratę lub
+   uszkodzenie światów, postępu w grze i innych danych, przerwy w działaniu serwera, utracone
+   korzyści ani szkody pośrednie.
+2. Wyłączenie nie dotyczy szkody wyrządzonej umyślnie ani innej odpowiedzialności, której zgodnie
+   z bezwzględnie obowiązującymi przepisami nie można wyłączyć ani ograniczyć.
+
+
+§ 8. Wygaśnięcie licencji
+
+1. Licencja wygasa bez wypowiedzenia, gdy Użytkownik narusza jej warunki. Użytkownik jest wtedy
+   obowiązany zaprzestać używania Programu i usunąć wszystkie jego kopie.
+2. Licencjodawca może wypowiedzieć licencję z zachowaniem terminu przewidzianego w art. 68
+   ustawy o prawie autorskim i prawach pokrewnych.
+3. Postanowienia § 6, § 7 i § 10 obowiązują także po wygaśnięciu licencji.
+
+
+§ 9. Znaki towarowe
+
+Valheim jest znakiem towarowym Iron Gate AB. Steam jest znakiem towarowym Valve Corporation, a Xbox
+znakiem towarowym Microsoft Corporation. vDeck jest niezależnym narzędziem i nie jest powiązany
+z Iron Gate AB, Coffee Stain Publishing, Valve Corporation ani Microsoft Corporation, nie jest przez
+nie autoryzowany ani wspierany. Nazwy te są używane wyłącznie w celu wskazania, z jakim
+oprogramowaniem współpracuje Program.
+
+
+§ 10. Postanowienia końcowe
+
+1. Licencja podlega prawu polskiemu.
+2. Spory rozstrzyga sąd właściwy dla miejsca zamieszkania Licencjodawcy, chyba że bezwzględnie
+   obowiązujące przepisy, w szczególności chroniące konsumentów, stanowią inaczej.
+3. Nieważność jednego z postanowień nie wpływa na ważność pozostałych. W jego miejsce stosuje się
+   postanowienie najbliższe celowi postanowienia nieważnego, dozwolone przez prawo.
+4. Nowa wersja licencji obowiązuje od wersji Programu, z którą została wydana. Instalując
+   aktualizację, Użytkownik przyjmuje licencję dołączoną do tej aktualizacji.
+5. Przepisy niniejszej licencji nie naruszają praw przysługujących konsumentom na podstawie
+   bezwzględnie obowiązujących przepisów.
+6. Kontakt z Licencjodawcą: https://github.com/Pplociennik
+
+
+================================================================================
+
+vDeck - END USER LICENSE AGREEMENT (English translation for information only)
+=============================================================================
+
+Copyright (c) 2026 Pplociennik (https://github.com/Pplociennik). All rights reserved.
+
+vDeck is not open source software and its source code is not published. This license lets you use
+the program free of charge on the terms below. The Polish version above is binding.
+
+1. Definitions. "Licensor" is the author known by the pseudonym Pplociennik, the sole owner of the economic
+   copyrights in the Program. "Program" is the vDeck distribution package, including the program
+   files in lib, start-vDeck.bat, the user manual, the README files and the settings templates, and
+   every update unless released under a different license. "Third-party components" are software
+   of other parties included with the Program, including the Java runtime in jre and the libraries
+   listed in THIRD-PARTY-NOTICES.txt. "Official source" is https://github.com/Pplociennik/vDeck-releases.
+
+2. Grant. The Licensor grants you a free, non-exclusive, non-transferable, non-sublicensable,
+   worldwide license of indefinite duration to install the Program on any number of your devices,
+   reproduce it in device memory as needed to install, run, display, use, store and update it, and
+   make a backup copy where necessary for its use. The license covers non-commercial use only, such as
+   managing Valheim servers run without payment for yourself, your friends or a community. Without
+   the Licensor's prior written consent you may not use the Program in any business or for financial
+   gain, including paid server hosting or administration services. The license takes effect when you first
+   install or run the Program; if you do not accept it, do not install or use the Program.
+
+3. Restrictions. Without the Licensor's prior written consent you may not: distribute the Program
+   or any part of it, including publishing, offering for download, selling, renting, lending or
+   bundling it (linking to the Official source is allowed); translate, adapt, rearrange or otherwise
+   modify the Program, including decompiling or disassembling it, except to the extent mandatory
+   law expressly permits; remove or alter authorship, copyright or license notices, including
+   LICENSE.txt, THIRD-PARTY-NOTICES.txt and jre\legal; use the name vDeck for other software or
+   suggest the Licensor's endorsement. You may not use the Program unlawfully or in breach of the
+   terms of Valheim or of the services it works with.
+
+4. Third-party components are governed solely by their own licenses, listed in
+   THIRD-PARTY-NOTICES.txt and jre\legal. This license does not limit your rights under them.
+
+5. Updates and network use. The Program may check for, download and install newer versions from
+   the Official source at startup; set update.enabled=false in .vDeck\config\vDeck-start.properties
+   to disable this. It connects to GitHub, which processes connection data under its own terms.
+   The Program sends no data to the Licensor. The Licensor has no obligation to provide updates,
+   support or the Official source and may stop developing the Program at any time.
+
+6. No warranty. The Program is provided free of charge "AS IS", without warranties of any kind,
+   express or implied, including fitness for a particular purpose, freedom from errors,
+   uninterrupted operation and compatibility with future Valheim versions; statutory warranty for
+   defects is excluded to the fullest extent permitted by law. The Program is in early development.
+   It stops, force-terminates and starts the game server process, and a copy of a running world
+   does not guarantee a consistent save. You use it at your own risk and are responsible for
+   backing up your worlds, settings and other data.
+
+7. Limitation of liability. To the fullest extent permitted by law, the Licensor is not liable for
+   any damage arising from the use of or inability to use the Program, including loss or corruption
+   of worlds, game progress or other data, server downtime, lost profits or indirect damage. This
+   does not apply to damage caused intentionally or to any liability that mandatory law does not
+   allow to be excluded or limited.
+
+8. Termination. The license ends automatically if you breach it; you must then stop using the
+   Program and delete all copies. The Licensor may terminate it with the notice period required
+   by Polish copyright law. Sections 6, 7 and 10 survive termination.
+
+9. Trademarks. Valheim is a trademark of Iron Gate AB, Steam of Valve Corporation and Xbox of
+   Microsoft Corporation. vDeck is an independent tool, not affiliated with, authorized or endorsed
+   by Iron Gate AB, Coffee Stain Publishing, Valve Corporation or Microsoft Corporation. The names
+   only identify the software the Program works with.
+
+10. Final provisions. This license is governed by Polish law. Disputes are resolved by the court
+    competent for the Licensor's place of residence unless mandatory law, in particular consumer
+    protection law, provides otherwise. An invalid provision does not affect the others and is
+    replaced by the lawful provision closest to its purpose. A new license version applies from the
+    Program version released with it; installing an update means accepting the license included in
+    it. Nothing in this license limits the mandatory rights of consumers. Contact:
+    https://github.com/Pplociennik
