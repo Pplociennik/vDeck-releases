@@ -27,7 +27,9 @@ Opis każdego wydania zawiera listę nowości, zmian i poprawek tej wersji.
 - Start, Stop z kopią świata, ponowne uruchomienie i potwierdzane wymuszone zakończenie (Kill);
 - podgląd stanu serwera i jego konsoli na żywo;
 - listy graczy: bany, administratorzy i biała lista (Steam i Xbox);
-- automatyczne aktualizacje i lista zmian po aktualizacji.
+- automatyczne aktualizacje i lista zmian po aktualizacji;
+- panel Admin: konfiguracja vDecka bez ręcznej edycji plików, przeglądanie logów serwera i vDecka,
+  log akcji, log wyjątków i lista zmian wszystkich wersji.
 
 Zarządzanie światami i kopiami, przywracanie kopii, RCON, mody i harmonogramy nie są jeszcze dostępne.
 
